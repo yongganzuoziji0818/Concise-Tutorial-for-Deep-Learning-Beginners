@@ -1,1 +1,1 @@
-# Concise-Tutorial-for-Deep-Learning-Beginners
+# Concise-Tutorial-on-Deep-Learning
